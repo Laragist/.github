@@ -1,6 +1,6 @@
-[![Laragist - Share and discover the best Laravel packages](https://github.com/Laragist/.github/blob/44aac74ceb3f19e8ac7b2d11846c66866b4f064f/github-readme-image.png)
+![Laragist - Share and discover the best Laravel packages](https://github.com/Laragist/.github/blob/44aac74ceb3f19e8ac7b2d11846c66866b4f064f/github-readme-image.png)
 
-**Laragist**  
+# Laragist
 Discover, share, and explore the best Laravel packages powered by the community.
 
 ## About Laragist
